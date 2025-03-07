@@ -40,3 +40,4 @@
 
 </body>
 </html>
+// Hotfix bug1: arreglat error a index.php
